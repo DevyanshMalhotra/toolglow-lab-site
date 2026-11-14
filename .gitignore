@@ -1,0 +1,17 @@
+# Local preview / QA artifacts
+.qa/
+__pycache__/
+node_modules/
+.venv/
+# This repository is exclusively the public website. Never add app secrets.
+.env
+.env.*
+!.env.example
+*token*.json
+*secret*.json
+credentials*.json
+*.pem
+*.key
+*.p12
+*.mp4
+*.mov
