@@ -50,7 +50,7 @@ The repository is public. GitHub Pages branch publishing for public repositories
 Official documentation reviewed on **November 14, 2026**. Publishing this website does **not** complete OAuth branding verification, scope verification, domain ownership verification, or any YouTube API review. No Google Cloud settings or private automation code are changed by this repository.
 
 1. In the correct Google Cloud project, enable **YouTube Data API v3**. Keep testing and production projects separate as required by [Google’s OAuth policies](https://developers.google.com/identity/protocols/oauth2/policies).
-2. In **Google Auth Platform → Branding**, use **ToolGlow Lab Automation**, support email `jaiseetaramsabhiko@gmail.com`, and a monitored developer contact address. The homepage visibly connects this application name to ToolGlow Lab. Do not upload a fabricated certification or verification badge.
+2. In **Google Auth Platform → Branding**, use **ToolGlow Lab Automation**, support email `devyanshmalhotra28@gmail.com`, and a monitored developer contact address. The homepage visibly connects this application name to ToolGlow Lab. Do not upload a fabricated certification or verification badge.
 3. After deployment is confirmed, the intended branding URLs are:
    - Homepage: `https://devyanshmalhotra.github.io/toolglow-lab-site/`
    - Privacy Policy: `https://devyanshmalhotra.github.io/toolglow-lab-site/privacy.html`
@@ -79,4 +79,4 @@ The privacy text is based on the desktop behavior described by the project owner
 - Desktop (1440px), tablet (768px), mobile (390px), and mobile privacy screenshots were inspected. No physical-device or screen-reader certification is claimed.
 - `git diff --check` passed. Only public website source, local artwork, and maintenance documentation/tools are included; no private automation files were inspected or added.
 
-Contact: [jaiseetaramsabhiko@gmail.com](mailto:jaiseetaramsabhiko@gmail.com).
+Contact: [devyanshmalhotra28@gmail.com](mailto:devyanshmalhotra28@gmail.com).
